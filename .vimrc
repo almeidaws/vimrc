@@ -1,8 +1,10 @@
 set number
 set relativenumber
 set hls
+set incsearch
 set is
 set autoindent
 syntax on
 set et
 set tabstop=4
+set shiftwidth=4
