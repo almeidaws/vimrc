@@ -8,3 +8,4 @@ syntax on
 set et
 set tabstop=4
 set shiftwidth=4
+set ignorecase
